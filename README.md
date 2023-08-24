@@ -15,7 +15,6 @@ When creating account it needs to restart
 
 when logging in dont close the main screen
 
-Random Crashes
 
 # Source 
 
